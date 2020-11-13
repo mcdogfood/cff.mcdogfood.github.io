@@ -1,2 +1,2 @@
-# cff.mcdogfood.github.io
-Repository for the site for Church Fenton Forward
+# Church Fenton Forward
+Holding page for Church Fenton Forward
